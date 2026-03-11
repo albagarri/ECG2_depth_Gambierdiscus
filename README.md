@@ -1,4 +1,3 @@
-# ECG2_depth_Gambierdiscus
 # Gambierdiscus abundance by depth – Balearic Islands
 
 ## Author
